@@ -1,10 +1,9 @@
-### Hi 👋, I'm Polina Kuznetsova
+## Hi 👋, I'm Polina Kuznetsova
 
-- 💻 Growing as a frontend developer
+- 🌱 I’m currently learning React, Redux, TypeScript
 - Contact with me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&show_icons=true&theme=merko&count_private=true&hide=contribs,prs)
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&show_icons=true&theme=merko&count_private=true&hide=contribs,prs) -->
 
 <!--
 **Polly2000/Polly2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
