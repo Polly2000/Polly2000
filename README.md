@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Polina Kuznetsova
-
-- 🌱 I’m currently learning React, Redux, TypeScript
+ 
+- 🌱 I’m currently learning React, JavaScript, TypeScript
 - Contact with me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&show_icons=true&theme=merko&count_private=true&hide=contribs,prs) -->
