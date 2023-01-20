@@ -1,4 +1,4 @@
-## Hi 👋, I'm Polina Kuznetsova
+## Hi 👋, I'm Polina
  
 - 🌱 I’m currently learning React, JavaScript, TypeScript
 - Contact with me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
