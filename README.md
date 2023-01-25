@@ -2,7 +2,6 @@
  
 - ⭐️ I'm interested `algorithms`, `React`, `TypeScript`
 - 💼 I have commercial testing experience 
-- ⚡ Fun fact: one day I was interested `node.js` (`express`, `MongoDB`) and built an authentication in my todo-list project (project in progress) - [Frontend](https://github.com/Polly2000/todo-list/tree/dev), [Backend](https://github.com/Polly2000/todo-list-backend/tree/dev)
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
 ## 👩‍💻 Stack:
@@ -14,8 +13,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-011?&logo=node.js)
 ![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
 
-<!-- ## 📈 GitHub Stats: -->
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
+## 📈 GitHub Stats:
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Когда-нибудь на потом: (обновлять опыт, например!) -->
