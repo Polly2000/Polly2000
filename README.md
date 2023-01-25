@@ -1,9 +1,27 @@
 ## Hi 👋, I'm Polina
  
-- 🌱 I’m currently learning React, JavaScript, TypeScript
-- Contact with me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
+- 🌱 I’m currently learning algorithms, React, TypeScript
+<!-- - 👨‍💻  -->
+- 💼 I have commercial testing experience 
+- ⚡ Fun fact: one day I interested node.js (express framework and also MongoDB) and built an authentication in my todo project (but still in progress)
+- 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&show_icons=true&theme=merko&count_private=true&hide=contribs,prs) -->
+## 👩‍💻 Stack:
+![HTML5](https://img.shields.io/badge/-HTML5-011?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-011?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-011?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-011?&logo=node.js)
+![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
+
+## 📈 GitHub Stats:
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- Когда-нибудь на потом: (обновлять опыт, например!) -->
+<!-- ![Jira](https://img.shields.io/badge/jira-011?&logo=jira) -->
+<!-- ![VS Code](https://img.shields.io/badge/vscode-011?&logo=visual-studio-code) -->
 
 <!--
 **Polly2000/Polly2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
