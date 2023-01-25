@@ -5,11 +5,11 @@
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
 ## 👩‍💻 Stack:
+![React](https://img.shields.io/badge/-React-011?&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-011?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-011?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-011?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-011?&logo=node.js)
 ![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
 
