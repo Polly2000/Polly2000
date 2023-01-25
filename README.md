@@ -1,9 +1,8 @@
 ## Hi 👋, I'm Polina
  
-- 🌱 I’m currently learning algorithms, React, TypeScript
-<!-- - 👨‍💻  -->
+- 🌱 I’m currently learning `algorithms`, `React`, `TypeScript`
 - 💼 I have commercial testing experience 
-- ⚡ Fun fact: one day I interested node.js (express framework and also MongoDB) and built an authentication in my todo project (but still in progress)
+- ⚡ Fun fact: one day I interested `node.js` (`express` framework and also `MongoDB`) and built an authentication in my todo-list project (in progress) - [Frontend](https://github.com/Polly2000/todo-list/tree/dev), [Backend](https://github.com/Polly2000/todo-list-backend/tree/dev)
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
 ## 👩‍💻 Stack:
@@ -22,6 +21,7 @@
 <!-- Когда-нибудь на потом: (обновлять опыт, например!) -->
 <!-- ![Jira](https://img.shields.io/badge/jira-011?&logo=jira) -->
 <!-- ![VS Code](https://img.shields.io/badge/vscode-011?&logo=visual-studio-code) -->
+<!-- - 👨‍💻  -->
 
 <!--
 **Polly2000/Polly2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
