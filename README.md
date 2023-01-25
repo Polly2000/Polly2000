@@ -14,8 +14,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-011?&logo=node.js)
 ![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
 
-## 📈 GitHub Stats:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## 📈 GitHub Stats: -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- Когда-нибудь на потом: (обновлять опыт, например!) -->
