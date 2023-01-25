@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Polina
  
-- 🌱 I’m currently learning `algorithms`, `React`, `TypeScript`
+- ⭐️ I'm interested `algorithms`, `React`, `TypeScript`
 - 💼 I have commercial testing experience 
-- ⚡ Fun fact: one day I interested `node.js` (`express` framework and also `MongoDB`) and built an authentication in my todo-list project (in progress) - [Frontend](https://github.com/Polly2000/todo-list/tree/dev), [Backend](https://github.com/Polly2000/todo-list-backend/tree/dev)
+- ⚡ Fun fact: one day I was wondering `node.js` (`express` framework and also `MongoDB`) and built an authentication in my todo-list project (in progress) - [Frontend](https://github.com/Polly2000/todo-list/tree/dev), [Backend](https://github.com/Polly2000/todo-list-backend/tree/dev)
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
 ## 👩‍💻 Stack:
