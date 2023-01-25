@@ -4,7 +4,7 @@
 - 💼 I have commercial testing experience 
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
-## 👩‍💻 Stack:
+## Stack:
 ![React](https://img.shields.io/badge/-React-011?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-011?&logo=node.js)
 ![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
 
-## 📈 GitHub Stats:
+## GitHub Stats:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=polly2000&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
