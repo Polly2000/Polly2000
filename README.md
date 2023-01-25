@@ -22,6 +22,7 @@
 <!-- ![Jira](https://img.shields.io/badge/jira-011?&logo=jira) -->
 <!-- ![VS Code](https://img.shields.io/badge/vscode-011?&logo=visual-studio-code) -->
 <!-- - 👨‍💻  -->
+<!-- - ⚡ Fun fact: one day I was interested `node.js` (`express`, `MongoDB`) and built an authentication in my todo-list project (project in progress) - [Frontend](https://github.com/Polly2000/todo-list/tree/dev), [Backend](https://github.com/Polly2000/todo-list-backend/tree/dev) -->
 
 <!--
 **Polly2000/Polly2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
