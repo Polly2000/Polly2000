@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Polina
  
-- ⭐️ I'm interested `algorithms`, `React`, `TypeScript`
+- ⭐️ I'm interested `algorithms`, `React`, `TypeScript`, `node.js`
 - 💼 I have commercial testing experience 
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
