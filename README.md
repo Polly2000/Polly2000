@@ -1,11 +1,12 @@
 ## Hi 👋, I'm Polina
  
-- ⭐️ I'm interested `algorithms`, `React`, `TypeScript`, `node.js`
+- ⭐️ I'm interested `React`, `TypeScript`, `node.js`
 - 💼 I have commercial testing experience 
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
 ## Stack:
 ![React](https://img.shields.io/badge/-React-011?&logo=React)
+![Redux](https://img.shields.io/badge/Redux-011?logo=redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-011?&logo=HTML5)
