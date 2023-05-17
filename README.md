@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Polina
  
+- 💻 Currently I'm working at Saber Interactive 
 - ⭐️ I'm interested `React`, `TypeScript`, `node.js`
 - 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
 
