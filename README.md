@@ -2,7 +2,7 @@
  
 - 💻 Currently I'm working at Saber Interactive 
 - ⭐️ I'm interested `React`, `TypeScript`, `node.js`
-- 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova), [LinkedIn](https://www.linkedin.com/in/polina-kuznetsova-5ab6a91b2/)
+- 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova)
 
 ## Stack:
 ![React](https://img.shields.io/badge/-React-011?&logo=React)
