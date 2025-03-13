@@ -2,7 +2,7 @@
  
 - 💻 Currently I'm working at fintech company
 - ⭐️ I'm interested `React`, `TypeScript`, `node.js`
-- 📫 How to reach me: [Telegram](https://t.me/p_kuznetsova)
+- 📫 How to reach me: [Telegram](https://t.me/floppy_polly)
 
 ## Stack:
 ![React](https://img.shields.io/badge/-React-011?&logo=React)
